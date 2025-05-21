@@ -1,0 +1,19 @@
+# Virtuelle Umgebung ausschließen
+.venv/
+
+# VS Code Einstellungen ausschließen
+.vscode/
+
+# Datenordner ausschließen
+data/
+
+# Bytecode und Cache
+__pycache__/
+*.py[cod]
+
+# Log-Dateien
+*.log
+
+# Build-Verzeichnisse
+build/
+dist/
